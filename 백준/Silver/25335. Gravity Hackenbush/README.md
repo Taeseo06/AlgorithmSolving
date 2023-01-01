@@ -1,4 +1,4 @@
-문제풀이 : https://taeseo-dev.tistory.com/entry/%EB%B0%B1%EC%A4%80-25225%EB%B2%88-C%EC%96%B8%EC%96%B4-%EC%8B%A4%EB%B2%84-5
+문제풀이 : [새 탭에서 열기](https://taeseo-dev.tistory.com/entry/%EB%B0%B1%EC%A4%80-25225%EB%B2%88-C%EC%96%B8%EC%96%B4-%EC%8B%A4%EB%B2%84-5){:target="_blank"}
   
 --  
 # [Silver V] Gravity Hackenbush - 25335 
